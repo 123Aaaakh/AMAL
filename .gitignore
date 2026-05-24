@@ -1,0 +1,11 @@
+# Mengabaikan virtual environment & cache
+venv/
+__pycache__/
+*.pyc
+
+# Mengabaikan sampel malware dan data log
+*.exe
+*.dll
+*.bin
+report.json
+data/
